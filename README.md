@@ -1,7 +1,7 @@
 # ZTM-Tensorflow
-📘 TensorFlow Deep Learning Bootcamp – Çalışma Notlarım
+📘 TensorFlow Deep Learning Bootcamp – My Study Notes
 
-Bu repo, Udemy [TensorFlow for Deep Learning Bootcamp](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery) kursunu izlerlerken hazırladığım tüm çalışma notlarını, uygulamaları ve alıştırmaları içeriyor.
+This repo contains all the study notes, implementations, and exercises I prepared while following the Udemy course [TensorFlow for Deep Learning Bootcamp](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery).
 
-Amacım; sadece izleyip geçmek değil,
-tüm içerikleri yeniden yazarak, deneyerek ve kendi yorumumla geliştirerek gerçek bir derin öğrenme temeli oluşturmak.
+My goal is not just to watch and move on,
+but to rewrite, experiment with, and develop all the content with my own commentary to build a solid foundation in deep learning.
