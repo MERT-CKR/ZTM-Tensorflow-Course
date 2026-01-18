@@ -14,8 +14,8 @@ This repo contains all the study notes, implementations, and exercises I prepare
 
 - ✅ Introduction
 - ✅ Deep Learning and TensorFlow Fundamentals
-- 📌 Neural network regression with TensorFlow
-- ⏳ Neural network classification in TensorFlow
+- ✅ Neural network regression with TensorFlow
+- 📌 Neural network classification in TensorFlow
 - ⏳ Computer Vision and Convolutional Neural Networks in TensorFlow
 - ⏳ Transfer Learning in TensorFlow Part 1: Feature extraction
 - ⏳ Transfer Learning in TensorFlow Part 2: Fine tuning
